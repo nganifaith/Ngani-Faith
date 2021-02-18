@@ -16,6 +16,6 @@ Apart from being an engineer I love teaching and sharing with people it gives me
 
 # My famous Quotes
 
-### A Random act of kindness can go a long way in changine the world.
+### A Random act of kindness can go a long way in changing the world.
 
 ### Always wear a smile for your smile might just brighten someone's day. 
