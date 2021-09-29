@@ -2,9 +2,7 @@
 
 ![image](./background.png)
 
-I am a very passionate software engineer who is passionate about using data to solve real life issues in my society especially medical data.
-
-I hope work as a Data Scientist dealing with medical data on common illness that go on trace.
+Frontend Engineer. Lover of JavaScript and React. Passionate about learning, solving problems and seeing the world.
 
 # Languages and Tools
 
@@ -25,11 +23,12 @@ I hope work as a Data Scientist dealing with medical data on common illness that
 
 # I'm currently working on ...
 
-Bulding simple projects with Javascript in order to improve my skills on problem solving.
+Building simple projects with Javascript to improve my skills in problem-solving.
 
 # I'm currently learning
 
-Learning React and Redux as part of my bootcamp curriculum while taking part in the Google Africa Developer Scholarship (GAD) for web specialist certification.
+![image](https://camo.githubusercontent.com/6cf9abe9d706421df40ff4feff208a5728df2b77f9eb21f24d09df00a0d69203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
+![image](https://camo.githubusercontent.com/dfc69d704694f22168bea3d84584663777fa5301dcad5bbcb5459b336da8d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
 
 ## Contact Info
 
@@ -37,10 +36,6 @@ Learning React and Redux as part of my bootcamp curriculum while taking part in 
 - Twitter: [@Bright_Ngani](https://twitter.com/bright_ngani)
 - LinkedIn: [Kongnyu Faith Ngani](https://www.linkedin.com/in/ngani-faith/)
 
-Apart from being an engineer I love teaching and sharing with people it gives me much joy to share and help people.
+Apart from being an Engineer, I love teaching and sharing with people it gives me much joy to share and help people.
 
-# My famous Quotes
-
-### A Random act of kindness can go a long way in changing the world.
-
-### Always wear a smile for your smile might just brighten someone's day.
+## A Random act of kindness can go a long way in changing the world.
